@@ -1,0 +1,13 @@
+C:\Users\moksleivis\source\repos\Keturi\Keturi\bin\Debug\netcoreapp3.1\Keturi.exe
+C:\Users\moksleivis\source\repos\Keturi\Keturi\bin\Debug\netcoreapp3.1\Keturi.deps.json
+C:\Users\moksleivis\source\repos\Keturi\Keturi\bin\Debug\netcoreapp3.1\Keturi.runtimeconfig.json
+C:\Users\moksleivis\source\repos\Keturi\Keturi\bin\Debug\netcoreapp3.1\Keturi.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\Keturi\Keturi\bin\Debug\netcoreapp3.1\Keturi.dll
+C:\Users\moksleivis\source\repos\Keturi\Keturi\bin\Debug\netcoreapp3.1\Keturi.pdb
+C:\Users\moksleivis\source\repos\Keturi\Keturi\obj\Debug\netcoreapp3.1\Keturi.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\Keturi\Keturi\obj\Debug\netcoreapp3.1\Keturi.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\Keturi\Keturi\obj\Debug\netcoreapp3.1\Keturi.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\Keturi\Keturi\obj\Debug\netcoreapp3.1\Keturi.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\source\repos\Keturi\Keturi\obj\Debug\netcoreapp3.1\Keturi.dll
+C:\Users\moksleivis\source\repos\Keturi\Keturi\obj\Debug\netcoreapp3.1\Keturi.pdb
+C:\Users\moksleivis\source\repos\Keturi\Keturi\obj\Debug\netcoreapp3.1\Keturi.genruntimeconfig.cache
